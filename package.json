@@ -1,0 +1,39 @@
+{
+  "name": "@saralweb/cordova-plugin-saralweb-background-geolocation",
+  "version": "2.4.1",
+  "description": "Cordova Background Geolocation Plugin",
+  "cordova": {
+    "id": "@saralweb/cordova-plugin-saralweb-background-geolocation",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saralweb/cordova-plugin-background-geolocation.git"
+  },
+  "keywords": [
+    "gps",
+    "location",
+    "geolocation",
+    "background",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "phonegap"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Saralweb",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/saralweb/cordova-plugin-background-geolocation/issues"
+  },
+  "homepage": "https://github.com/saralweb/cordova-plugin-background-geolocation#readme"
+}
